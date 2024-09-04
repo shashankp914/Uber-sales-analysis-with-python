@@ -70,6 +70,3 @@ To explore this analysis yourself:
 ## Conclusion
 
 This project offers a deep dive into Uber ride patterns in New York City, showcasing the capabilities of Python for data analysis and visualization. The methods demonstrated here can be adapted for similar datasets, offering valuable insights for transportation analysis or other time-series and spatial data explorations. Enjoy your journey through the data!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28939083/91fcad35-ff02-481b-b8b1-29ae7b3b0521/Uber-data-analytics-with-python.ipynb
